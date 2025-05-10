@@ -9,7 +9,7 @@ This project explores the linguistic and thematic characteristics that distingui
 
 ## 🔗 Run the Full Analysis in Google Colab
 
-👉 [Open in Google Colab](https://colab.research.google.com/drive/your-notebook-id-here)  
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1Ua7wQCrOkSu3pOi-lyPhKBx7v_UfMwYC?usp=sharing)  
 _All steps from data scraping to final evaluation are included in this single notebook._
 
 ---
